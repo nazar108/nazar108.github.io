@@ -1,0 +1,145 @@
+body{
+	background: url(../img/main_bg.png)0 0/cover no-repeat;
+}
+.polosi{
+	height: 1064px;
+	width: 1190px;
+	margin: 106px 108px 530px 242px;
+	background: url(../img/polosi.png) 50% no-repeat;
+}
+.travel{
+	/* Style for "Travel" */
+width: 67px;
+height: 10px;
+opacity: 0.6;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+line-height: 40px;
+text-transform: uppercase;
+/* Text style for "Travel" */
+letter-spacing: 2.8px;
+margin:auto;
+padding: 50px 61px 25px 0px;
+}
+.text1{
+	/* Style for "Donec sed" */
+width: 721px;
+height: 75px;
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 36px;
+font-weight: 400;
+line-height: 50px;
+text-align: center;
+margin:auto ;
+}
+.photo_bg{
+		/* Style for "Layer 1" */
+	width: 841px;
+	height: 561px;
+	box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
+	margin: 57px 202px 251px 147px;
+	background: url(../img/photo_bg.png) 50% 35%;
+}
+.mainphoto{
+	text-align: center;
+	padding: 10px;
+}
+.text2{
+	/* Style for "Donec ared" */
+width: 736px;
+height: 257px;
+opacity: 0.8;
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 24px;
+font-weight: 400;
+line-height: 40px;
+margin: -127px 50px 50px 190px;
+}
+.text3{
+	/* Style for "Donec ared" */
+width: 736px;
+height: 257px;
+opacity: 0.8;
+color: #273d46;
+font-family: "Times New Roman PSMT";
+font-size: 24px;
+font-weight: 400;
+line-height: 40px;
+margin: -527px 10px 50px 432px;
+}
+.list{
+	list-style-image: url(../img/check_icon.png); ;
+	margin: -130px 199px 55px 427px;
+}
+.list_text{
+	/* Style for "Put on thi" */
+width: 550px;
+height: 19px;
+text-shadow: 0 1px 0 rgba(0, 0, 0, 0.3);
+color: #273d46;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+}
+.list_text1{
+	/* Style for "A detailed" */
+width: 490px;
+height: 19px;
+color: #80b7b3;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+}
+.list_text2{
+	/* Style for "Tell us ab" */
+width: 450px;
+height: 20px;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: bold;
+line-height: 36px;
+}
+.list_text3{
+	/* Style for "Associate" */
+width: 470px;
+height: 19px;
+opacity: 0.9;
+color: #273d46;
+font-family: "Arial MT";
+font-size: 24px;
+font-weight: 400;
+line-height: 36px;
+text-decoration: line-through;
+}
+.knopka{
+	margin: 90px 59px 55px 440px;
+}
+.button{
+	border: 3px solid #80b7b3;
+	font-size: 28px;
+	background-color: #80b7b3;
+	color:#f2f2f2;
+	text-decoration: none;
+	width: 210px;
+	text-align: center;
+	height: 30px;
+	display: block;
+	font-family: Arial;
+	border-radius: 20px;
+	transition: all 500ms ease;
+}
+.button:hover {
+	background: rgba(0,0,0,0);
+	color: #80b7b3;
+	
+}
+.mir{
+	color: #e31414;
+}
